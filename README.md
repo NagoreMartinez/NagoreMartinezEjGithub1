@@ -1,2 +1,2 @@
 # NagoreMartinezEjGithub1
-Este es el primer ejercicio de practica 
+Este es el primer ejercicio de practica de este repositorio
